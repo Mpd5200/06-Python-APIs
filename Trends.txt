@@ -1,0 +1,5 @@
+1) the first trend is noticed is that (obviously)the further the city is away from the equator the cooler the temperature is.
+
+2) The second trend I saw is that wind speed is not affected much by latitude.The data remains similar in the entire set.
+
+3)Cloudiness seems to be the most unpredictable of all the criteria bases on latitude. There is a wide spread of cloudiness points on the graph, regardless of lat. 
